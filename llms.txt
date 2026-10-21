@@ -1,0 +1,41 @@
+# Fase Extra
+
+> Games, controles e acessórios. Preços lidos nos anúncios do Mercado Livre, com a data de leitura.
+
+Contém links de afiliado Mercado Livre.
+
+## Categorias
+- [Controles de jogos](https://marcusviniciusps08-hue.github.io/fase-extra/categoria/controles-de-jogos/)
+- [Jogos e acessórios de videogame](https://marcusviniciusps08-hue.github.io/fase-extra/categoria/jogos-e-acessorios-de-videogame/)
+- [Consoles de videogame](https://marcusviniciusps08-hue.github.io/fase-extra/categoria/consoles-de-videogame/)
+- [Fones de ouvido](https://marcusviniciusps08-hue.github.io/fase-extra/categoria/fones-de-ouvido/)
+- [Outros produtos](https://marcusviniciusps08-hue.github.io/fase-extra/categoria/outros-produtos/)
+
+## Guias de compra
+- [Como escolher console de videogame: o que comparar antes de comprar](https://marcusviniciusps08-hue.github.io/fase-extra/guias/como-escolher-console-de-videogame/)
+- [Consoles de videogame até R$ 2.500: opções e preços](https://marcusviniciusps08-hue.github.io/fase-extra/guias/consoles-de-videogame-ate-2500/)
+- [Como escolher controle de jogos: o que comparar antes de comprar](https://marcusviniciusps08-hue.github.io/fase-extra/guias/como-escolher-controle-de-jogos/)
+- [Controles de jogos até R$ 300: opções e preços](https://marcusviniciusps08-hue.github.io/fase-extra/guias/controles-de-jogos-ate-300/)
+- [Como escolher cabo de áudio e vídeo: o que comparar antes de comprar](https://marcusviniciusps08-hue.github.io/fase-extra/guias/como-escolher-cabo-de-audio-e-video/)
+- [Cabos e adaptadores de áudio e vídeo até R$ 30: opções e preços](https://marcusviniciusps08-hue.github.io/fase-extra/guias/cabos-e-adaptadores-de-audio-e-video-ate-30/)
+- [Como escolher fone de ouvido: o que comparar antes de comprar](https://marcusviniciusps08-hue.github.io/fase-extra/guias/como-escolher-fone-de-ouvido/)
+- [Fones de ouvido até R$ 180: opções e preços](https://marcusviniciusps08-hue.github.io/fase-extra/guias/fones-de-ouvido-ate-180/)
+- [Como escolher SSD ou HD: o que comparar antes de comprar](https://marcusviniciusps08-hue.github.io/fase-extra/guias/como-escolher-ssd-ou-hd/)
+- [SSDs e HDs até R$ 140: opções e preços](https://marcusviniciusps08-hue.github.io/fase-extra/guias/ssds-e-hds-ate-140/)
+
+## Comparativos
+- [Console Portátil Brick Game 9999 Jogos Vermelho AA vs Console Portátil Brick Game 9999 in 1 com: comparativo](https://marcusviniciusps08-hue.github.io/fase-extra/comparativos/console-portatil-brick-game-9999-jogos-vermelho-aa-vs-console-portatil-brick-game-9999-in-/)
+- [KIT 2 Mini Video Games Portáteis 9999 Em vs Consola de jogos S10 com alça de controle: comparativo](https://marcusviniciusps08-hue.github.io/fase-extra/comparativos/kit-2-mini-video-games-portateis-9999-em-vs-consola-de-jogos-s10-com-alca-de-controle/)
+- [Console De Jogos Portátil Oasis Diversão Infinita Azul vs Máquinas portáteis de videogame para adultos e crianças: comparativo](https://marcusviniciusps08-hue.github.io/fase-extra/comparativos/console-de-jogos-portatil-oasis-diversao-infinita-azul-vs-maquinas-portateis-de-videogame-/)
+- [Controle Com Fio Usb Para Pc Tv Manete vs Controle Para Ps2 E Ps1 Video game Dualshock: comparativo](https://marcusviniciusps08-hue.github.io/fase-extra/comparativos/controle-com-fio-usb-para-pc-tv-manete-vs-controle-para-ps2-e-ps1-video-game-dualshock/)
+- [Controle Para Ps2 Com Fio Analógico Joystick Manete vs Controle Para Xbox 360 Com Fio USB Joystick: comparativo](https://marcusviniciusps08-hue.github.io/fase-extra/comparativos/controle-para-ps2-com-fio-analogico-joystick-manete-vs-controle-para-xbox-360-com-fio-usb-/)
+- [Controle Para Xbox 360 Com Fio Joystick Manete vs Controle Sem Fio Joystick REDFIN Bluetooth Compatível Para: comparativo](https://marcusviniciusps08-hue.github.io/fase-extra/comparativos/controle-para-xbox-360-com-fio-joystick-manete-vs-controle-sem-fio-joystick-redfin-bluetoo/)
+- [Adaptador Hdmi 8k 4k L 90 Graus Macho vs Adaptador De Vídeo Ps2 Para Hdmi Full Hd: comparativo](https://marcusviniciusps08-hue.github.io/fase-extra/comparativos/adaptador-hdmi-8k-4k-l-90-graus-macho-vs-adaptador-de-video-ps2-para-hdmi-full-hd/)
+- [Fone De Ouvido Headset Office Usb Microfone Reunião vs Headset Gamer Python Viper Pro Preto LED Verde: comparativo](https://marcusviniciusps08-hue.github.io/fase-extra/comparativos/fone-de-ouvido-headset-office-usb-microfone-reuniao-vs-headset-gamer-python-viper-pro-pret/)
+- [Headset Gamer V-Shield RGB USB Com Microfone Flexível vs Fone De Ouvido Retorno Kz Edx Pro X: comparativo](https://marcusviniciusps08-hue.github.io/fase-extra/comparativos/headset-gamer-v-shield-rgb-usb-com-microfone-flexivel-vs-fone-de-ouvido-retorno-kz-edx-pro/)
+- [Headset Gamer Warrior Huginn Mic P3 3,5mm Ps5 vs Fone De Ouvido Bluetooth Tune 125bt Preto Jbl: comparativo](https://marcusviniciusps08-hue.github.io/fase-extra/comparativos/headset-gamer-warrior-huginn-mic-p3-3-5mm-ps5-vs-fone-de-ouvido-bluetooth-tune-125bt-preto/)
+- [SSD Interno CeaMere 120GB Preto SATA III P/Notebook vs Disco Rígido Interno Hd 500gb Purple Para Dvr: comparativo](https://marcusviniciusps08-hue.github.io/fase-extra/comparativos/ssd-interno-ceamere-120gb-preto-sata-iii-p-notebook-vs-disco-rigido-interno-hd-500gb-purpl/)
+
+## Sobre
+- [Sobre e afiliação](https://marcusviniciusps08-hue.github.io/fase-extra/sobre/)
+- [Perguntas frequentes](https://marcusviniciusps08-hue.github.io/fase-extra/faq/)
